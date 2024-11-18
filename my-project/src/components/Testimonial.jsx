@@ -3,7 +3,7 @@ import mandiChickendishImage from '../assets/Video.png'
 
 const TestimonialSection = () => {
     return (
-      <div className="w-full bg-[#8B0000] py-16 px-4">
+      <div className="w-full bg-[#5B0017] py-16 px-4">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 bg-amber-500 rounded-lg overflow-hidden shadow-xl">
             
